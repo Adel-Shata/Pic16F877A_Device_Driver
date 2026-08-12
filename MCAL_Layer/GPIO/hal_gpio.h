@@ -10,7 +10,6 @@
 
 /*Section: Includes*/
 #include "../proc/pic16f877a.h"
-#include "../mcal_std_types.h"
 #include "../device_config.h"
 
 /*Section: Macro Declarations*/
